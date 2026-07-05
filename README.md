@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 👋 Hi, I'm Purushotham Chowdhary, a Computer Science undergraduate passionate about Artificial Intelligence, Generative AI, and Full-Stack Development.<br><br>I enjoy building real-world applications using Next.js, TypeScript, Python, REST APIs, and LLMs. My interests include AI automation, web scraping, backend development, and creating scalable software solutions.<br><br>Currently, I'm focused on improving my problem-solving skills, contributing to open source, and exploring modern AI technologies.
 
 
